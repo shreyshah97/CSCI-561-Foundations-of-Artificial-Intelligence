@@ -17,5 +17,5 @@ This assignment focuses on different search algorithm, BFS, Dijkastra and A\*.
 ## Run homework.py on single input
 
 1. Create `input.txt` as per the instruction above in the root folder.
-2. Run `python3 homework.py input.txt`.
+2. Run `python3 homework.py`.
 3. Generated path can be found in `output.txt`
